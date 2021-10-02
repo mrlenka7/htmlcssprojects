@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-family: 'Stick No Bills', sans-serif;
+}
+table{
+    margin: auto;
+}
+td{
+    background-color: black;
+    height: 200px;
+    width: 120px;
+    border: 5px solid white;
+}
+#one{
+    background-color:#f0aaaa;
+}
+#two{
+    background-color:#f4e8b7;
+}
+#three{
+    background-color:#caffbe;
+}
+#four{
+    background-color:#abebf0;
+}
+#five{
+    background-color:#b7b4ff;
+}
